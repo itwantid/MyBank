@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyBank</string>
+    <string name="domain">mybank.auth</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://127.0.0.1:5000/.well-known/assetlinks.json\" }]</string>
+</resources>
